@@ -1,0 +1,33 @@
+body {
+    background-color: #89D6D9;
+}
+
+div {
+    width: 960px;
+    background-color: #FFFFFF;
+    padding: 20px 20px 20px 20px;
+    margin: auto;
+    
+}
+.footer {
+    width: 940px;
+    background-color: #DDDDDD;
+    padding: 10px;
+    ;
+}
+
+table {
+    border: 1px solid #CCCCCC;
+    border-collapse: collapse;
+    
+}
+thead, th {
+    background-color: #ece7d7;
+}
+td, tr{
+    border: 1px solid #CCCCCC;
+    background-color: #F5F4F2;
+}
+img {
+    width: 10%;
+}
